@@ -1,4 +1,6 @@
-# POSTHUMAN ꝏ DVS StateSync configuration for TGrade network
+![Tgrade](https://user-images.githubusercontent.com/92199696/186116109-10ee97b5-637a-4e5e-bf9f-2fdebff9791c.png)
+
+# POSTHUMAN ∞ DVS StateSync configuration for TGrade network
 
 In order to setup StateSync for your node please follow this commands
 
